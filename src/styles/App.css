@@ -87,3 +87,27 @@ nav {
   margin-bottom: 10px;
   }
   
+  h1 {
+    text-align: center; /* Centra el texto */
+  }
+
+  /* Estilos para los botones */
+button {
+  /* ... otros estilos ... */
+  margin-right: 10px; /* Agrega margen a la derecha del botón */
+}
+
+/* Estilo para el botón deshabilitado */
+.button-disabled {
+  background-color: #ccc; /* Cambia el color de fondo */
+  color: #999; /* Cambia el color de texto */
+  cursor: not-allowed; /* Cambia el cursor del mouse */
+}
+
+.volver {
+margin-left: 10px;
+margin-bottom: 10px;
+font-size: 18px;
+}
+
+

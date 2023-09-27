@@ -40,7 +40,7 @@ const Encuesta = ({ listaEncuestas, responderEncuesta }) => {
           <br />
         </div>
       </div>
-      <Link to="/">Volver</Link>
+      <Link to="/" className="volver">Volver</Link>
     </div>
   );
 };
